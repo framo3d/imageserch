@@ -1,0 +1,4 @@
+main/auth/key.pem
+*.log
+nohup.out
+log.txt
