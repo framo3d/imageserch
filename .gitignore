@@ -2,3 +2,7 @@ main/auth/key.pem
 *.log
 nohup.out
 log.txt
+main/auth/key.pem
+*.log
+nohup.out
+log.txt
